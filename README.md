@@ -93,15 +93,15 @@
   <h3>Exploring My Coding Universe:</h3>
   <p>
     I'm currently focusing on:<br/><br/>
-    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-Creating%20Tools-6B21A8?style=flat-square" alt="Mathematics" /></a>
+    <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" /></a>
     &nbsp;&nbsp;
     <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" /></a>
     &nbsp;&nbsp;
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" /></a>
     &nbsp;&nbsp;
-    <a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" /></a>
+    <a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /></a>
   </p>
 </div>
 

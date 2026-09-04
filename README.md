@@ -156,10 +156,10 @@
   </a>
   <p><em>A browser-based Persian chatbot focused on intelligent conversations and educational assistance.</em></p>
 
-  <a href="https://github.com/sadra-hatami/Prompt-Builder-Website">
-    <img src="https://img.shields.io/badge/AI%20Prompt%20Builder-Prompt%20Engineering-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="AI Prompt Builder" />
+  <a href="https://github.com/sadra-hatami/Rubika-Smart-Bot">
+    <img src="https://img.shields.io/badge/Rubika%20Smart%20Bot-Persian%20AI%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Smart Bot" />
   </a>
-  <p><em>A customizable web tool for building structured prompts for AI and programming tasks.</em></p>
+  <p><em>A powerful Persian Rubika bot for group management, AI, security, entertainment, learning, and automation.</em></p>
 </div>
 
 <br>

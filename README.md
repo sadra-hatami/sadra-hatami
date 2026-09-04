@@ -99,10 +99,6 @@
     &nbsp;&nbsp;
     <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" /></a>
     &nbsp;&nbsp;
-    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" /></a>
-    &nbsp;&nbsp;
-    <a href="https://platform.openai.com/docs"><img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /></a>
-  </p>
 </div>
 
 <!-- =============================================================== -->

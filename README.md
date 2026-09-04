@@ -12,6 +12,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+![GitHub Profile](https://github.com/sadra-hatami)
+![Full Resume](https://sadrahatami.blogfa.com/)
 
 <p align="center">
   <a href="https://github.com/sadra-hatami">
@@ -178,6 +180,7 @@
 - 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint, and AI programming**.
 - 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
 
+<br>
 <br>
 
 <div align="center">

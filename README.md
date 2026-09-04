@@ -4,7 +4,7 @@
 
 <div align="center" width="100%">
 
-![header](https://itextglow.vercel.app/api/banner?text=Sadra+Hatami&sub=%5BDeveloper-AI+Explorer-Math+Enthusiast%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=58&subsize=15&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
+![header](https://itextglow.vercel.app/api/banner?text=Sadra+Hatami&sub=Programming+%7C+AI+%7C+Mathematics&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=58&subsize=15&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" />
@@ -15,12 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/sadra-hatami">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe!;Python+Developer+%7C+AI+Explorer+%7C+Math+Enthusiast;Building+Educational+%26+Intelligent+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&color=00F0FF&center=true&vCenter=true&width=800&lines=Programming+%7C+AI+%7C+Mathematics" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SADRA+IS+HERE!&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PYTHON%20%7C%20AI%20%7C%20WEB%20%7C%20MATH&descAlignY=55" alt="Capsule Render Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Programming%20%7C%20AI%20%7C%20Mathematics&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Capsule Render Banner" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadra.hatami.1732@gmail.com)
@@ -49,27 +49,11 @@
 <div align="center">
   <h3>My Digital Toolkit & Passions:</h3>
 
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=333333" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=333333" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=333333" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=333333" alt="JavaScript" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=333333" alt="C++" />
-  </a>
-  <a href="https://github.com/sadra-hatami">
-    <img src="https://img.shields.io/badge/AI%20%26%20ML-0077B6?style=for-the-badge&logo=openai&logoColor=white&labelColor=333333" alt="AI & ML" />
-  </a>
-  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
-    <img src="https://img.shields.io/badge/Math%20Projects-6B21A8?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=333333" alt="Math Projects" />
-  </a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Project-Mathematics%20Toolbox-6B21A8?style=for-the-badge&logo=github&logoColor=white" alt="Project" /></a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="42" height="42" /> Tech Stack
@@ -82,8 +66,8 @@
 | 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js)](#) |
 | ⚙️ | **Python & AI** | [![](https://skillicons.dev/icons?i=python,pytorch,sklearn)](#) |
 | 🚀 | **Version Control** | [![](https://skillicons.dev/icons?i=git,github)](#) |
-| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio)](#) |
-| 💻 | **Platforms** | [![](https://skillicons.dev/icons?i=windows)](#) |
+| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio)](#) &nbsp; ![](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) &nbsp; ![](https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white) &nbsp; ![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 💻 | **Platforms** | [![](https://skillicons.dev/icons?i=windows)](#) &nbsp; ![](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) &nbsp; ![](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white) &nbsp; ![](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white) |
 
 </div>
 
@@ -102,8 +86,6 @@
     <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-FF69B4?style=flat-square&logo=scikitlearn&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Web%20Development-Building-4CAF50?style=flat-square&logo=html5&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Mathematics-Creating%20Tools-6B21A8?style=flat-square" />
   </p>
@@ -168,17 +150,6 @@
     <img src="https://img.shields.io/badge/AI%20Prompt%20Builder-Prompt%20Engineering-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="AI Prompt Builder" />
   </a>
   <p><em>A customizable web tool for building structured prompts for AI and programming tasks.</em></p>
-</div>
-
-### 🌐 Live Projects
-
-<div align="center">
-
-[![Mathematics Toolbox](https://img.shields.io/badge/Mathematics_Toolbox-Live_Demo-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://sadra-hatami.github.io/Mathematics-Toolbox/)
-[![Trading Signal System](https://img.shields.io/badge/Trading_Signal_System-Live_Demo-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://sadra-hatami.github.io/Trading-Signal-System/)
-[![Persian ChatBot](https://img.shields.io/badge/Persian_ChatBot-Live_Demo-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://sadra-hatami.github.io/Persian-Adaptive-ChatBot/)
-[![Prompt Builder](https://img.shields.io/badge/Prompt_Builder-Live_Demo-00C853?style=for-the-badge&logo=githubpages&logoColor=white)](https://sadra-hatami.github.io/Prompt-Builder-Website/)
-
 </div>
 
 <!-- =============================================================== -->

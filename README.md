@@ -15,13 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/sadra-hatami">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&color=00F0FF&center=true&vCenter=true&width=800&lines=Sadra+Hatami" alt="Sadra Hatami" />
-  </a><br/>
-  <sub><strong>Programming | AI | Mathematics</strong></sub>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&color=00F0FF&center=true&vCenter=true&width=800&lines=Programming+%7C+AI+%7C+Mathematics" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sadra%20Hatami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20%7C%20AI%20%7C%20Mathematics&descSize=18&descAlignY=58" alt="Sadra Hatami Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sadra%20Hatami&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20%7C%20AI%20%7C%20Mathematics&descSize=20&descAlignY=62" alt="Capsule Render Banner" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadra.hatami.1732@gmail.com)
@@ -50,11 +49,21 @@
 <div align="center">
   <h3>My Digital Toolkit & Passions:</h3>
 
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" /></a>
-  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Mathematics" /></a>
-  <a href="https://scikit-learn.org/stable/"><img src="https://skillicons.dev/icons?i=sklearn" alt="Machine Learning" height="48" /></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="Deep Learning" height="48" /></a>
-  <a href="https://platform.openai.com/docs/overview"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" /></a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
+    <img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" />
+  </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  </a>
+  <a href="https://platform.openai.com/docs">
+    <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  </a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="42" height="42" /> Tech Stack
@@ -63,12 +72,12 @@
 
 | # | Category | Icons |
 |---|---|---|
-| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,cpp)](#) |
-| 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js)](#) |
-| ⚙️ | **Python & AI** | [![](https://skillicons.dev/icons?i=python,pytorch,sklearn)](#) |
-| 🚀 | **Version Control** | [![](https://skillicons.dev/icons?i=git,github)](#) |
-| 🧰 | **Tools** | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="40"></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" height="40"></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" height="40"></a> <a href="https://www.spyder-ide.org/"><img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder" height="40"></a> <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" height="40"></a> |
-| 💻 | **Platforms** | <a href="https://www.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="40"></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" height="40"></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" height="40"></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" height="40"></a> |
+| 🔤 | **Languages** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> |
+| 🎨 | **Frontend** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
+| ⚙️ | **Python & AI** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a> <a href="https://scikit-learn.org/stable/"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /></a> |
+| 🚀 | **Version Control** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
+| 🧰 | **Tools** | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://cdn.simpleicons.org/spyderide/FF0000" height="48" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" /></a> |
+| 💻 | **Platforms** | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="48" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="48" alt="Word" /></a> |
 
 </div>
 
@@ -84,11 +93,11 @@
   <h3>Exploring My Coding Universe:</h3>
   <p>
     I'm currently focusing on:<br/><br/>
-    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" /></a>
+    <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-Exploring-FF69B4?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" /></a>
     &nbsp;&nbsp;
-    <a href="https://scikit-learn.org/stable/"><img src="https://skillicons.dev/icons?i=sklearn" alt="Machine Learning" height="48" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
     &nbsp;&nbsp;
-    <a href="https://www.wolframalpha.com/"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Mathematics" /></a>
+    <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-Creating%20Tools-6B21A8?style=flat-square" alt="Mathematics" /></a>
   </p>
 </div>
 

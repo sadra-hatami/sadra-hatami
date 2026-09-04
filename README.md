@@ -12,8 +12,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-![GitHub Profile](https://github.com/sadra-hatami)
-![Full Resume](https://sadrahatami.blogfa.com/)
+<p>
+  <a href="https://sadrahatami.blogfa.com/">
+    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/sadra-hatami">

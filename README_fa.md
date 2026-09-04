@@ -14,7 +14,7 @@
 ![دنبال‌کنندگان گیت‌هاب](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 <p>
   <a href="https://sadrahatami.blogfa.com/">
-    <img src="https://img.shields.io/badge/مشاهده%20رزومه%20کامل-وبلاگ%20شخصی-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="رزومه کامل" />
+    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
   </a>
 </p>
 
@@ -180,7 +180,7 @@
 
 <div dir="rtl">
 
-- 🏆 قرار گرفتن بین **۱۰ نفر برتر کشور** در جشنواره جوان خوارزمی — بخش فناوری اطلاعات / ریاضیات.
+- 🏆 قرار گرفتن بین **۱۰ نفر برتر کشور** در جشنواره نوجوان خوارزمی — بخش فناوری اطلاعات / ریاضیات.
 - 🥇 **رتبه اول** منطقه و استان و **رتبه ششم کشور** در برنامه جونیورا.
 - ⭐ پذیرش از طریق **آزمون ورودی استعدادهای درخشان** ایران.
 - 📜 دریافت گواهی‌های **پایتون پیشرفته، یادگیری ماشین، C++، HTML، CSS، اکسل، پاورپوینت و برنامه‌نویسی هوش مصنوعی**.
@@ -194,7 +194,7 @@
 <div align="center">
   <p>
     <a href="https://sadrahatami.blogfa.com/">
-      <img src="https://img.shields.io/badge/مشاهده%20رزومه%20کامل-وبلاگ%20شخصی-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="رزومه کامل" />
+      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
     </a>
   </p>
 </div>

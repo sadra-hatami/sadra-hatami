@@ -177,7 +177,9 @@
 - ⭐ Admitted through Iran's national **Gifted Students entrance exam**.
 - 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint, and AI programming**.
 - 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
-
+  
+  br>
+  
 <div align="center">
   <p>
     <a href="https://sadrahatami.blogfa.com/">

@@ -180,7 +180,7 @@
 - 🏆 Ranked among the **Top 10 nationwide** in the Khwarizmi Youth Festival — Information Technology / Mathematics track.
 - 🥇 **1st place** in Qazvin district and province and **6th nationwide** in the Juniora program.
 - 🎓 Ranked among the top **1,000** out of more than **600,000** participants in the PyTeach program, awarded a **full scholarship** to attend **Stanford University’s AI/ML course** in the USA.
-- ⭐ Admitted through Iran's national **Gifted Students entrance exam**.
+- ⭐ Admitted through Iran's national **Gifted Students entrance exam** (SAMPAD).
 - 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming**.
 - 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
 

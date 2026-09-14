@@ -308,17 +308,6 @@ Supported by Quera
 </div>
 
 <br>
-<br>
-
-<div align="center">
-  <p>
-    <a href="https://sadrahatami.blogfa.com/">
-      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
-    </a>
-  </p>
-</div>
-
-<br>
 
 <!-- =============================================================== -->
 <!--                       📈 TROPHIES                                 -->
@@ -334,6 +323,17 @@ Supported by Quera
   </p>
 </div>
 
+<br>
+<br>
+
+<div align="center">
+  <p>
+    <a href="https://sadrahatami.blogfa.com/">
+      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
+    </a>
+  </p>
+</div>
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
 
 <!-- =============================================================== -->

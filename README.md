@@ -170,6 +170,108 @@
 <br>
 
 <!-- =============================================================== -->
+<!--                 📚 COURSES & CERTIFICATIONS                       -->
+<!-- =============================================================== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Courses%20%26%20Certifications&fontSize=24&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 📚 Courses & Certifications
+
+<p align="center">
+  Python → Web → C++ → Machine Learning → Artificial Intelligence
+</p>
+
+<div align="center">
+<table width="92%">
+<tr>
+<td width="50%" valign="top">
+
+#### AI & MACHINE LEARNING
+
+`01` **International Certificate in AI & Machine Learning — Stanford University**  
+Stanford Data Ocean (SDO)  
+[Certificate ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
+
+`02` **Bilingual Machine Learning Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/CA4C124B)
+
+</td>
+<td width="50%" valign="top">
+
+#### PYTHON
+
+`03` **Bilingual Advanced Python Programming — Iran Digital**  
+Score: **100/100** · Supported by Ministry of ICT • Ministry of Education • Finka Platform  
+[Verify FA ↗](https://irandigitalict.ir/verify/11eyzd) · [Verify EN ↗](https://irandigitalict.ir/verify/en/11eyzd)
+
+`04` **Bilingual Introductory Python Programming — Iran Digital**  
+Supported by Ministry of ICT • Ministry of Education • Finka Platform  
+[Verify FA ↗](https://irandigitalict.ir/verify/j1zym) · [Verify EN ↗](https://irandigitalict.ir/verify/en/j1zym)
+
+`05` **Bilingual Python Programming Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/079F25D6)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### PROGRAMMING & WEB
+
+`06` **Bilingual C++ Programming Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/8B3047D4)
+
+`07` **Bilingual HTML Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/42F999BE)
+
+`08` **Bilingual CSS Web Design Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/17BED274)
+
+`09` **Bilingual Excel Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/C188C114)
+
+`10` **Bilingual PowerPoint Certificate — Faradars**  
+[Certificate ↗](https://faradars.org/verify/2A65C454)
+
+</td>
+<td width="50%" valign="top">
+
+#### JUNIORA & CODEBOT
+
+`11` **CodeUp Python Starter Certificate — Juniora**  
+Supported by Quera  
+[Certificate ↗](https://static.juniora.org/files/certificates/qvqe1uz1.png)
+
+`12` **AI CodeBot Starter Certificate (Python) — Juniora**  
+Supported by Quera  
+[Certificate ↗](https://juniora.org/certificate/ioysxifu)
+
+`13` **AI CodeBot Level 1 Certificate (Python) — Juniora**  
+Supported by Quera  
+[Certificate ↗](https://juniora.org/certificate/7to8p0hy)
+
+`14` **AI CodeBot Level 2 Certificate (Python) — Juniora**  
+Supported by Quera  
+[Certificate ↗](https://juniora.org/certificate/p1dcxlo0)
+
+`15` **AI CodeBot Level 3 Certificate (Python) — Juniora**  
+Supported by Quera  
+[Certificate ↗](https://juniora.org/certificate/puhkrvdk)
+
+`16` **AI CodeBot Level 4 Certificate (Python) — Juniora**  
+Supported by Quera  
+[Certificate ↗](https://juniora.org/certificate/pmij9hec)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- =============================================================== -->
 <!--                       🏆 ACHIEVEMENTS                             -->
 <!-- =============================================================== -->
 

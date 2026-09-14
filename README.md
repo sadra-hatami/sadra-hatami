@@ -87,19 +87,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=sadra-hatami&theme=mint)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadra-hatami&theme=tokyonight" alt="Top languages by repository" />
-</p>
-
 <!-- =============================================================== -->
 <!--                     🚀 MY CODING UNIVERSE                        -->
 <!-- =============================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h3>Exploring My Coding Universe:</h3>
@@ -112,6 +104,16 @@
     <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" /></a>
     &nbsp;&nbsp;
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=sadra-hatami&theme=mint)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadra-hatami&theme=tokyonight" alt="Top languages by repository" />
+</p>
 
 <!-- =============================================================== -->
 <!--                ✨ VISUAL PROFILE STATS                           -->
@@ -128,6 +130,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="60%" alt="GitHub stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="60%" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 </div>
 
@@ -148,6 +153,8 @@
 <!-- =============================================================== -->
 <!--                       🌟 FEATURED PROJECTS                        -->
 <!-- =============================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h3>Showcasing My Creations:</h3>
@@ -184,6 +191,8 @@
 <!--                       🏆 ACHIEVEMENTS                             -->
 <!-- =============================================================== -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h3>Achievements & Highlights:</h3>
 </div>
@@ -203,6 +212,8 @@
 <!-- =============================================================== -->
 <!--                 📚 COURSES & CERTIFICATIONS                       -->
 <!-- =============================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Courses%20%26%20Certifications&fontSize=24&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
@@ -312,6 +323,8 @@ Supported by Quera
 <!-- =============================================================== -->
 <!--                       📈 TROPHIES                                 -->
 <!-- =============================================================== -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h3>GitHub Achievements & Trends:</h3>

@@ -179,7 +179,7 @@
 
 - 🏆 Ranked among the **Top 10 nationwide** in the Khwarizmi Youth Festival — Information Technology / Mathematics track.
 - 🥇 **1st place** in Qazvin district and province and **6th nationwide** in the Juniora program.
-- 🎓 Ranked among the top **1,000** out of more than **600,000** participants in the PyTeach program, awarded a **full scholarship** to attend **Stanford University’s AI/ML course** in the USA.
+- 🎓 Ranked among the top **1,000** out of more than **600,000** participants in the PyTeach program, awarded a **full scholarship** to attend **Stanford University’s AI/ML course** of the USA.
 - ⭐ Admitted through Iran's national **Gifted Students entrance exam** (Sampad).
 - 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming**.
 - 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
@@ -205,7 +205,7 @@
 
 #### AI & MACHINE LEARNING
 
-`01` **International Certificate in AI & Machine Learning — Stanford University**  
+`01` **International Certificate in AI & Machine Learning — Stanford University of the USA.**  
 Stanford Data Ocean (SDO)  
 [Certificate ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 

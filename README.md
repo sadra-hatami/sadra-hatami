@@ -127,7 +127,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="48%" alt="GitHub stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="48%" />
 
 </div>
 

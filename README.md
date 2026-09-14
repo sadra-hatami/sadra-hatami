@@ -114,6 +114,10 @@
 <!--                ✨ VISUAL PROFILE STATS                           -->
 <!-- =============================================================== -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=sadra-hatami&theme=mint)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-hatami&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="Contribution Graph"/>
 </p>

@@ -113,7 +113,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadra-hatami&theme=tokyonight" alt="زبان‌ها بر اساس مخزن" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="زبان‌ها بر اساس مخزن" />
 </p>
 
 <!-- =============================================================== -->

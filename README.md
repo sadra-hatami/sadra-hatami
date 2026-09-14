@@ -185,15 +185,6 @@
 - 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
 
 <br>
-<br>
-
-<div align="center">
-  <p>
-    <a href="https://sadrahatami.blogfa.com/">
-      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
-    </a>
-  </p>
-</div>
 
 <br>
 
@@ -291,6 +282,17 @@ Supported by Quera
 </td>
 </tr>
 </table>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <p>
+    <a href="https://sadrahatami.blogfa.com/">
+      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
+    </a>
+  </p>
 </div>
 
 <!-- =============================================================== -->

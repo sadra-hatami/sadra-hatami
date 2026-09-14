@@ -13,8 +13,8 @@
 ![بازدید پروفایل](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![دنبال‌کنندگان گیت‌هاب](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 <p>
-  <a href="https://sadrahatami.blogfa.com/">
-    <img src="https://img.shields.io/badge/مشاهده%20رزومه%20کامل-وبسایت%20شخصی-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="رزومه کامل" />
+  <a href="https://sadrahatami.blogfa.com/page/persian-resume">
+    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
   </a>
 </p>
 
@@ -30,8 +30,8 @@
 
 [![جیمیل](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadra.hatami.1732@gmail.com)
 [![گیت‌هاب](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadra-hatami)
-[![تلگرام](https://img.shields.io/badge/کانال%20تلگرام-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SadraHatamiHub)
-[![وبسایت](https://img.shields.io/badge/وبسایت%20شخصی-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadrahatami.blogfa.com/)
+[![Telegram](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SadraHatamiHub)
+[![Website](https://img.shields.io/badge/Personal_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadrahatami.blogfa.com/)
 
 </div>
 
@@ -57,19 +57,19 @@
   <h3>جعبه ابزار دیجیتال و علاقه‌مندی‌ها:</h3>
 
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/پایتون-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="پایتون" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
-    <img src="https://img.shields.io/badge/ریاضیات-6B21A8?style=for-the-badge" alt="ریاضیات" />
+    <img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning">
-    <img src="https://img.shields.io/badge/یادگیری%20ماشین-0077B6?style=for-the-badge" alt="یادگیری ماشین" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Deep_learning">
-    <img src="https://img.shields.io/badge/یادگیری%20عمیق-8E44AD?style=for-the-badge" alt="یادگیری عمیق" />
+    <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" alt="Deep Learning" />
   </a>
   <a href="https://platform.openai.com/docs">
-    <img src="https://img.shields.io/badge/مدل%20زبانی%20بزرگ-412991?style=for-the-badge&logo=openai&logoColor=white" alt="مدل زبانی بزرگ" />
+    <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
   </a>
 </div>
 
@@ -98,11 +98,11 @@
   <h3>در دنیای کدنویسی‌ام چه می‌کنم:</h3>
   <p>
     الان روی این‌ها تمرکز دارم:<br/><br/>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/پایتون-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="پایتون" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/ریاضیات-6B21A8?style=for-the-badge" alt="ریاضیات" /></a>
+    <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" /></a>
     &nbsp;&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/یادگیری%20ماشین-0077B6?style=for-the-badge" alt="یادگیری ماشین" /></a>
+    <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" /></a>
     &nbsp;&nbsp;
 </div>
 
@@ -161,29 +161,29 @@
   <h3>نمایش ساخته‌هایم:</h3>
 
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
-    <img src="https://img.shields.io/badge/جعبه%20ابزار%20ریاضی-بیش%20از%2040%20ابزار-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="جعبه ابزار ریاضی" />
+    <img src="https://img.shields.io/badge/Mathematics%20Toolbox-40%2B%20Math%20Tools-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
   </a>
-  <p><em>یک پلتفرم جامع فارسی ریاضی با بیش از ۴۰ ابزار تخصصی، منابع آموزشی و امکانات حل مسئله.</em></p>
+  <p><em>جعبه ابزار ریاضی — پلتفرم جامع فارسی با بیش از ۴۰ ابزار تخصصی ریاضی، منابع آموزشی و امکانات حل مسئله.</em></p>
 
   <a href="https://github.com/sadra-hatami/Trading-Signal-System">
-    <img src="https://img.shields.io/badge/سیستم%20سیگنال%20معاملاتی-تحلیل%20تکنیکال-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="سیستم سیگنال معاملاتی" />
+    <img src="https://img.shields.io/badge/Trading%20Signal%20System-Technical%20Analysis-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Trading Signal System" />
   </a>
-  <p><em>یک سامانه مدرن تحت وب برای تحلیل اندیکاتورهای تکنیکال و تولید سیگنال‌های ساخت‌یافته بازار.</em></p>
+  <p><em>سیستم سیگنال معاملاتی — سامانه مدرن تحت وب برای تحلیل اندیکاتورهای تکنیکال و تولید سیگنال خرید و فروش.</em></p>
 
   <a href="https://github.com/sadra-hatami/Persian-Adaptive-ChatBot">
-    <img src="https://img.shields.io/badge/چت‌بات%20انطباقی%20فارسی-دستیار%20هوشمند-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="چت‌بات انطباقی فارسی" />
+    <img src="https://img.shields.io/badge/Persian%20Adaptive%20ChatBot-Intelligent%20Assistant-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Persian Adaptive ChatBot" />
   </a>
-  <p><em>یک چت‌بات فارسی مبتنی بر مرورگر با تمرکز بر گفت‌وگوی هوشمند و کمک آموزشی.</em></p>
+  <p><em>چت‌بات هوشمند فارسی — چت‌بات مبتنی بر مرورگر برای گفت‌وگوی هوشمند و کمک آموزشی.</em></p>
 
   <a href="https://github.com/sadra-hatami/Rubika-Smart-Bot">
-    <img src="https://img.shields.io/badge/ربات%20هوشمند%20روبیکا-ربات%20فارسی%20روبیکا-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="ربات هوشمند روبیکا" />
+    <img src="https://img.shields.io/badge/Rubika%20Smart%20Bot-Persian%20Rubika%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Smart Bot" />
   </a>
-  <p><em>یک ربات قدرتمند فارسی روبیکا برای مدیریت گروه، هوش مصنوعی، امنیت، سرگرمی، یادگیری و خودکارسازی.</em></p>
+  <p><em>ربات هوشمند روبیکا — ربات فارسی روبیکا برای مدیریت گروه، هوش مصنوعی، امنیت، سرگرمی، یادگیری و خودکارسازی.</em></p>
 
   <a href="https://github.com/sadra-hatami/Bioinformatics-Training">
-    <img src="https://img.shields.io/badge/آموزش%20بیوانفورماتیک-دفترچه‌های%20ژوپیتر-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="آموزش بیوانفورماتیک" />
+    <img src="https://img.shields.io/badge/Bioinformatics%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Bioinformatics Training" />
   </a>
-  <p><em>یک مخزن کاربردی بیوانفورماتیک شامل داده‌های ژنومی، اپی‌ژنتیک، ترانسکریپتوم، پروتئوم، بالینی، پوشیدنی و تصویربرداری با دفترچه‌های تعاملی ژوپیتر.</em></p>
+  <p><em>آموزش بیوانفورماتیک — مخزن کاربردی با دفترچه‌های تعاملی ژوپیتر برای داده‌های ژنومی، اپی‌ژنتیک، ترانسکریپتوم، پروتئوم، بالینی، پوشیدنی و تصویربرداری.</em></p>
 </div>
 
 <br>
@@ -200,13 +200,13 @@
 
 <div dir="rtl">
 
-- 🏆 قرار گرفتن در جمع **۱۰ نفر برتر کشور** در جشنواره خوارزمی جوان — بخش فناوری اطلاعات / ریاضیات.
-- 🥇 **رتبه اول** شهرستان و استان قزوین و **رتبه ششم کشور** در برنامه جونیورا.
-- 🎓 قرار گرفتن در جمع **۱٬۰۰۰ نفر برتر** از میان بیش از **۶۰۰٬۰۰۰** شرکت‌کننده برنامه پای‌تیچ و دریافت **بورس کامل** دوره **هوش مصنوعی و یادگیری ماشین دانشگاه استنفورد آمریکا**.
-- ⭐ **قبولی** در آزمون ورودی ملی **تیزهوشان** (سمپاد).
-- 📜 دریافت گواهی در **پایتون پیشرفته، یادگیری ماشین، سی‌پلاس‌پلاس، HTML، CSS، اکسل، پاورپوینت و برنامه‌نویسی هوش مصنوعی**.
-- 🌐 گواهی **بین‌المللی هوش مصنوعی و یادگیری ماشین** — **دانشگاه استنفورد آمریکا**.
-- 💯 اتمام گواهی **برنامه‌نویسی پایتون پیشرفته** با نمره **۱۰۰ از ۱۰۰**.
+- 🏆 جز **۱۰ نفر برتر کشور** در جشنواره نوجوان خوارزمی، زیرمحور فناوری اطلاعات ریاضی.
+- 🥇 **رتبه اول** در منطقه و استان قزوین و **ششم کشوری** در برنامه جونیورا.
+- 🎓 جزو **هزار نفر برتر** از میان بیش از نیم میلیون شرکت‌کننده در برنامه PyTeach، برای دریافت **بورسیه تحصیلی کامل** جهت حضور در دوره هوش مصنوعی دانشگاه استنفورد آمریکا.
+- ⭐ **قبولی** در آزمون سراسری **استعدادهای درخشان** (سمپاد).
+- 📜 دریافت گواهی‌نامه در **برنامه‌نویسی پیشرفته پایتون، یادگیری ماشین، C++، HTML، CSS، اکسل، پاورپوینت و برنامه‌نویسی هوش مصنوعی**.
+- 🌐 گواهی‌نامه‌ی **بین‌المللی هوش مصنوعی و یادگیری ماشین** از **دانشگاه استنفورد آمریکا**.
+- 💯 گواهی‌نامه‌ی **برنامه‌نویسی پیشرفته پایتون** از ایران‌دیجیتال با نمره **۱۰۰ از ۱۰۰**.
 
 </div>
 
@@ -233,28 +233,28 @@
 
 #### هوش مصنوعی و یادگیری ماشین
 
-`01` **گواهی بین‌المللی هوش مصنوعی و یادگیری ماشین — دانشگاه استنفورد آمریکا**  
-Stanford Data Ocean (SDO)  
-[گواهی ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [استعلام ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
+`01` **گواهی‌نامه‌ی بین‌المللی هوش مصنوعی و یادگیری ماشین از دانشگاه استنفورد آمریکا**  
+دانشگاه استنفورد — مرکز اقیانوس داده دانشگاه استنفورد (SDO)  
+[Certificate ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 
-`02` **گواهی دوزبانه یادگیری ماشین — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/CA4C124B)
+`02` **گواهی‌نامه‌ی دوزبانه یادگیری ماشین از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/CA4C124B)
 
 </td>
 <td width="50%" valign="top" dir="rtl">
 
 #### پایتون
 
-`03` **گواهی دوزبانه برنامه‌نویسی پایتون پیشرفته — ایران دیجیتال**  
-نمره: **۱۰۰/۱۰۰** · با حمایت وزارت ارتباطات • وزارت آموزش و پرورش • پلتفرم فینکا  
-[استعلام فارسی ↗](https://irandigitalict.ir/verify/11eyzd) · [استعلام انگلیسی ↗](https://irandigitalict.ir/verify/en/11eyzd)
+`03` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی پیشرفته پایتون از ایران‌دیجیتال**  
+نمره: **۱۰۰ از ۱۰۰** · با حمایت وزارت ارتباطات و فناوری اطلاعات • وزارت آموزش و پرورش • پلتفرم فینکا  
+[Verify FA ↗](https://irandigitalict.ir/verify/11eyzd) · [Verify EN ↗](https://irandigitalict.ir/verify/en/11eyzd)
 
-`04` **گواهی دوزبانه برنامه‌نویسی پایتون مقدماتی — ایران دیجیتال**  
-با حمایت وزارت ارتباطات • وزارت آموزش و پرورش • پلتفرم فینکا  
-[استعلام فارسی ↗](https://irandigitalict.ir/verify/j1zym) · [استعلام انگلیسی ↗](https://irandigitalict.ir/verify/en/j1zym)
+`04` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی مقدماتی پایتون از ایران‌دیجیتال**  
+با حمایت وزارت ارتباطات و فناوری اطلاعات • وزارت آموزش و پرورش • پلتفرم فینکا  
+[Verify FA ↗](https://irandigitalict.ir/verify/j1zym) · [Verify EN ↗](https://irandigitalict.ir/verify/en/j1zym)
 
-`05` **گواهی دوزبانه برنامه‌نویسی پایتون — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/079F25D6)
+`05` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی Python از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/079F25D6)
 
 </td>
 </tr>
@@ -263,49 +263,49 @@ Stanford Data Ocean (SDO)
 
 #### برنامه‌نویسی و وب
 
-`06` **گواهی دوزبانه برنامه‌نویسی سی‌پلاس‌پلاس — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/8B3047D4)
+`06` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی C++ از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/8B3047D4)
 
-`07` **گواهی دوزبانه HTML — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/42F999BE)
+`07` **گواهی‌نامه‌ی دوزبانه HTML از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/42F999BE)
 
-`08` **گواهی دوزبانه طراحی وب با CSS — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/17BED274)
+`08` **گواهی‌نامه‌ی دوزبانه CSS - طراحی وب از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/17BED274)
 
-`09` **گواهی دوزبانه اکسل — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/C188C114)
+`09` **گواهی‌نامه‌ی دوزبانه اکسل از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/C188C114)
 
-`10` **گواهی دوزبانه پاورپوینت — فرادرس**  
-[گواهی ↗](https://faradars.org/verify/2A65C454)
+`10` **گواهی‌نامه‌ی دوزبانه پاورپوینت از فرادرس**  
+[Certificate ↗](https://faradars.org/verify/2A65C454)
 
 </td>
 <td width="50%" valign="top" dir="rtl">
 
 #### جونیورا و کدبات
 
-`11` **گواهی CodeUp Python Starter — جونیورا**  
+`11` **گواهی‌نامه‌ی برنامه‌نویسی پایتون کدآپ - استارتر از برنامه جونیورا**  
 با حمایت کوئرا  
-[گواهی ↗](https://static.juniora.org/files/certificates/qvqe1uz1.png)
+[Certificate ↗](https://static.juniora.org/files/certificates/qvqe1uz1.png)
 
-`12` **گواهی AI CodeBot Starter (پایتون) — جونیورا**  
+`12` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - استارتر به زبان پایتون از برنامه جونیورا**  
 با حمایت کوئرا  
-[گواهی ↗](https://juniora.org/certificate/ioysxifu)
+[Certificate ↗](https://juniora.org/certificate/ioysxifu)
 
-`13` **گواهی AI CodeBot سطح ۱ (پایتون) — جونیورا**  
+`13` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۱ به زبان پایتون از برنامه جونیورا**  
 با حمایت کوئرا  
-[گواهی ↗](https://juniora.org/certificate/7to8p0hy)
+[Certificate ↗](https://juniora.org/certificate/7to8p0hy)
 
-`14` **گواهی AI CodeBot سطح ۲ (پایتون) — جونیورا**  
+`14` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۲ به زبان پایتون از برنامه جونیورا**  
 با حمایت کوئرا  
-[گواهی ↗](https://juniora.org/certificate/p1dcxlo0)
+[Certificate ↗](https://juniora.org/certificate/p1dcxlo0)
 
-`15` **گواهی AI CodeBot سطح ۳ (پایتون) — جونیورا**  
+`15` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۳ به زبان پایتون از برنامه جونیورا**  
 با حمایت کوئرا  
-[گواهی ↗](https://juniora.org/certificate/puhkrvdk)
+[Certificate ↗](https://juniora.org/certificate/puhkrvdk)
 
-`16` **گواهی AI CodeBot سطح ۴ (پایتون) — جونیورا**  
+`16` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۴ به زبان پایتون از برنامه جونیورا**  
 با حمایت کوئرا  
-[گواهی ↗](https://juniora.org/certificate/pmij9hec)
+[Certificate ↗](https://juniora.org/certificate/pmij9hec)
 
 </td>
 </tr>
@@ -333,8 +333,8 @@ Stanford Data Ocean (SDO)
 
 <div align="center">
   <p>
-    <a href="https://sadrahatami.blogfa.com/">
-      <img src="https://img.shields.io/badge/مشاهده%20رزومه%20کامل-وبسایت%20شخصی-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="رزومه کامل" />
+    <a href="https://sadrahatami.blogfa.com/page/persian-resume">
+      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
     </a>
   </p>
 </div>

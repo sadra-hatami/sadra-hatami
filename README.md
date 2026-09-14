@@ -179,10 +179,6 @@
 
 ## 📚 Courses & Certifications
 
-<p align="center">
-  Python → Web → C++ → Machine Learning → Artificial Intelligence
-</p>
-
 <div align="center">
 <table width="92%">
 <tr>

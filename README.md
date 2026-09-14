@@ -170,6 +170,34 @@
 <br>
 
 <!-- =============================================================== -->
+<!--                       🏆 ACHIEVEMENTS                             -->
+<!-- =============================================================== -->
+
+<div align="center">
+  <h3>Achievements & Highlights:</h3>
+</div>
+
+- 🏆 Ranked among the **Top 10 nationwide** in the Khwarizmi Youth Festival — Information Technology / Mathematics track.
+- 🥇 **1st place** in Qazvin district and province and **6th nationwide** in the Juniora program.
+- 🎓 Ranked among the top **1,000** out of more than **600,000** participants in the PyTeach program, awarded a **full scholarship** to attend **Stanford University’s AI/ML course** in the USA.
+- ⭐ Admitted through Iran's national **Gifted Students entrance exam** (SAMPAD).
+- 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming**.
+- 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
+
+<br>
+<br>
+
+<div align="center">
+  <p>
+    <a href="https://sadrahatami.blogfa.com/">
+      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+<!-- =============================================================== -->
 <!--                 📚 COURSES & CERTIFICATIONS                       -->
 <!-- =============================================================== -->
 
@@ -263,34 +291,6 @@ Supported by Quera
 </td>
 </tr>
 </table>
-</div>
-
-<br>
-
-<!-- =============================================================== -->
-<!--                       🏆 ACHIEVEMENTS                             -->
-<!-- =============================================================== -->
-
-<div align="center">
-  <h3>Achievements & Highlights:</h3>
-</div>
-
-- 🏆 Ranked among the **Top 10 nationwide** in the Khwarizmi Youth Festival — Information Technology / Mathematics track.
-- 🥇 **1st place** in Qazvin district and province and **6th nationwide** in the Juniora program.
-- 🎓 Ranked among the top **1,000** out of more than **600,000** participants in the PyTeach program, awarded a **full scholarship** to attend **Stanford University’s AI/ML course** in the USA.
-- ⭐ Admitted through Iran's national **Gifted Students entrance exam** (SAMPAD).
-- 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming**.
-- 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
-
-<br>
-<br>
-
-<div align="center">
-  <p>
-    <a href="https://sadrahatami.blogfa.com/">
-      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
-    </a>
-  </p>
 </div>
 
 <!-- =============================================================== -->

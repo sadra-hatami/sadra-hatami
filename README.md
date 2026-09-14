@@ -95,7 +95,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadra-hatami&theme=tokyonight" alt="Top languages by repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadra-hatami&theme=tokyonight" alt="Top languages by commits" />
 </p>
 
 <!-- =============================================================== -->

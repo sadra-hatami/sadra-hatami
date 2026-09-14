@@ -136,13 +136,14 @@
 
 </div>
 
----
 
 ## ⭐ Repository Stars
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/sadra-hatami?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

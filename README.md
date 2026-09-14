@@ -14,7 +14,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 <p>
   <a href="https://sadrahatami.blogfa.com/">
-    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
+    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
   </a>
 </p>
 
@@ -30,7 +30,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadra.hatami.1732@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadra-hatami)
-[![Blog](https://img.shields.io/badge/Personal_Blog-0A66C2?style=for-the-badge&logo=blogger&logoColor=white)](https://sadrahatami.blogfa.com/)
+[![Telegram](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SadraHatamiHub)
+[![Website](https://img.shields.io/badge/Personal_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadrahatami.blogfa.com/)
 
 </div>
 
@@ -60,11 +61,11 @@
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
     <img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" />
   </a>
-  <a href="https://scikit-learn.org/stable/">
-    <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <a href="https://en.wikipedia.org/wiki/Machine_learning">
+    <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" />
   </a>
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <a href="https://en.wikipedia.org/wiki/Deep_learning">
+    <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" alt="Deep Learning" />
   </a>
   <a href="https://platform.openai.com/docs">
     <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
@@ -79,7 +80,7 @@
 |---|---|---|
 | 🔤 | **Languages** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> |
 | 🎨 | **Frontend** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
-| ⚙️ | **Python & AI** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a> <a href="https://scikit-learn.org/stable/"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /></a> |
+| ⚙️ | **Python & AI** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
 | 🚀 | **Version Control** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
 | 🧰 | **Tools** | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.svg" height="48" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" alt="Jupyter" /></a> |
 | 💻 | **Platforms** | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://skill-icons-v2.vercel.app/api/icons?i=word" alt="Word" /></a> |
@@ -88,7 +89,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=sadra-hatami&theme=mint)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadra-hatami&theme=tokyonight" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadra-hatami&theme=tokyonight" alt="Top languages by commits" />
+</p>
 
 <!-- =============================================================== -->
 <!--                     🚀 MY CODING UNIVERSE                        -->
@@ -102,7 +106,7 @@
     &nbsp;&nbsp;
     <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" /></a>
     &nbsp;&nbsp;
-    <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" /></a>
+    <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" /></a>
     &nbsp;&nbsp;
 </div>
 
@@ -119,7 +123,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=sadra-hatami&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="48%" alt="GitHub stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
@@ -165,6 +169,11 @@
     <img src="https://img.shields.io/badge/Rubika%20Smart%20Bot-Persian%20Rubika%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Smart Bot" />
   </a>
   <p><em>A powerful Persian Rubika bot for group management, AI, security, entertainment, learning, and automation.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Bioinformatics-Training">
+    <img src="https://img.shields.io/badge/Bioinformatics%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Bioinformatics Training" />
+  </a>
+  <p><em>A practical bioinformatics repository covering genomic, epigenetic, transcriptomic, proteomic, clinical, wearable, and imaging data through interactive Jupyter Notebooks.</em></p>
 </div>
 
 <br>
@@ -291,7 +300,7 @@ Supported by Quera
 <div align="center">
   <p>
     <a href="https://sadrahatami.blogfa.com/">
-      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Blog-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
+      <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
     </a>
   </p>
 </div>

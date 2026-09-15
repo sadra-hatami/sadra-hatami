@@ -255,7 +255,7 @@
 
 #### AI & MACHINE LEARNING
 
-`01` **International Certificate in Artificial Intelligence and Machine Learning from Stanford University**  
+`01` **International Certificate in AI and Machine Learning from Stanford University of the U.S.A.**  
 Stanford University — Stanford Data Ocean (SDO)  
 [Certificate ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 

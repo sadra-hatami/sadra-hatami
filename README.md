@@ -125,7 +125,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="70%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="60%" alt="GitHub stats" />
 

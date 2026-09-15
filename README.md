@@ -80,7 +80,7 @@
 |---|---|---|---|
 | 🔤 | **Languages** | Python · JavaScript · C++ | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> |
 | 🎨 | **Frontend** | HTML · CSS · JavaScript | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
-| ⚙️ | **Python & AI** | Python · ML · DL | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
+| ⚙️ | **Python & AI** | Python · Machine Learning · Deep learnin | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
 | 🚀 | **Version Control** | Git · GitHub | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
 | 🧰 | **Tools** | VS Code · PyCharm · Visual Studio · Anaconda · Spyder · Jupyter | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.svg" height="40" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" alt="Jupyter" /></a> |
 | 💻 | **Platforms** | Windows · Excel · PowerPoint · Word | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://skill-icons-v2.vercel.app/api/icons?i=word" alt="Word" /></a> |
@@ -120,12 +120,12 @@
 <!-- =============================================================== -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-hatami&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-hatami&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="Contribution Graph" width="60%" />
 </p>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="60%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="60%" alt="GitHub stats" />
 

@@ -13,7 +13,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 <p>
-  <a href="https://sadrahatami.blogfa.com/">
+  <a href="https://sadrahatami.blogfa.com/page/english-resume">
     <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 </div>
 
 <!-- =============================================================== -->
-<!--                  👋 GREETING & ROLE STATEMENT                   -->
+<!--                  GREETING & ROLE STATEMENT                       -->
 <!-- =============================================================== -->
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <!-- =============================================================== -->
-<!--               🌟 KEY SKILLS & INTERESTS                         -->
+<!--               KEY SKILLS & INTERESTS                             -->
 <!-- =============================================================== -->
 
 <div align="center">
@@ -74,21 +74,21 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="42" height="42" /> Tech Stack
 
-<div align="center">
+<div style="width:100%; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;">
 
-| # | Category | Icons |
-|---|---|---|
-| 🔤 | **Languages** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> |
-| 🎨 | **Frontend** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
-| ⚙️ | **Python & AI** | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
-| 🚀 | **Version Control** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
-| 🧰 | **Tools** | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.svg" height="48" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" alt="Jupyter" /></a> |
-| 💻 | **Platforms** | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://skill-icons-v2.vercel.app/api/icons?i=word" alt="Word" /></a> |
+| # | Category | Tools | Icons |
+|---|---|---|---|
+| 🔤 | **Languages** | Python · JavaScript · C++ | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> |
+| 🎨 | **Frontend** | HTML · CSS · JavaScript | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
+| ⚙️ | **Python & AI** | Python · ML · DL | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
+| 🚀 | **Version Control** | Git · GitHub | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
+| 🧰 | **Tools** | VS Code · PyCharm · Visual Studio · Anaconda · Spyder · Jupyter | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.svg" height="40" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" alt="Jupyter" /></a> |
+| 💻 | **Platforms** | Windows · Excel · PowerPoint · Word | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://skill-icons-v2.vercel.app/api/icons?i=word" alt="Word" /></a> |
 
 </div>
 
 <!-- =============================================================== -->
-<!--                     🚀 MY CODING UNIVERSE                        -->
+<!--                     MY CODING UNIVERSE                           -->
 <!-- =============================================================== -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -102,7 +102,7 @@
     <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" /></a>
     &nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" /></a>
-    &nbsp;&nbsp;
+  </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -112,11 +112,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages by repository" width="60%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <!-- =============================================================== -->
-<!--                ✨ VISUAL PROFILE STATS                           -->
+<!--                VISUAL PROFILE STATS                              -->
 <!-- =============================================================== -->
 
 <p align="center">
@@ -129,13 +129,11 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="60%" alt="GitHub stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="60%" />
+<img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="60%" alt="GitHub Trophies" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 </div>
-
 
 ## ⭐ Repository Stars
 
@@ -147,13 +145,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <!-- =============================================================== -->
-<!--                       🌟 FEATURED PROJECTS                        -->
+<!--                       FEATURED PROJECTS                          -->
 <!-- =============================================================== -->
 
 <div align="center">
@@ -162,27 +159,32 @@
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
     <img src="https://img.shields.io/badge/Mathematics%20Toolbox-40%2B%20Math%20Tools-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
   </a>
-  <p><em>A comprehensive Persian mathematics platform with 40+ specialized tools, learning resources, and problem-solving features.</em></p>
+  <p><em>A comprehensive, fully offline Persian platform combining 40+ specialized mathematical tools with complete middle school math education and powerful problem-solving.</em></p>
 
   <a href="https://github.com/sadra-hatami/Trading-Signal-System">
     <img src="https://img.shields.io/badge/Trading%20Signal%20System-Technical%20Analysis-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Trading Signal System" />
   </a>
-  <p><em>A modern web-based system for analyzing technical indicators and generating structured market signals.</em></p>
+  <p><em>Modern web-based trading signal system generating BUY/SELL signals using weighted RSI, EMA, MACD, Stochastic, Ichimoku, Bollinger Bands, and Support/Resistance.</em></p>
 
-  <a href="https://github.com/sadra-hatami/Persian-Adaptive-ChatBot">
-    <img src="https://img.shields.io/badge/Persian%20Adaptive%20ChatBot-Intelligent%20Assistant-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Persian Adaptive ChatBot" />
+  <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
+    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Persian%20Rubika%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
   </a>
-  <p><em>A browser-based Persian chatbot focused on intelligent conversations and educational assistance.</em></p>
+  <p><em>A powerful Persian Rubika advanced bot for group management, AI, security, entertainment, learning, and automation.</em></p>
 
-  <a href="https://github.com/sadra-hatami/Rubika-Smart-Bot">
-    <img src="https://img.shields.io/badge/Rubika%20Smart%20Bot-Persian%20Rubika%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Smart Bot" />
+  <a href="https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel">
+    <img src="https://img.shields.io/badge/Telegram%20Rubika%20Account%20Panel-Account%20Panel-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Telegram Rubika Account Panel" />
   </a>
-  <p><em>A powerful Persian Rubika bot for group management, AI, security, entertainment, learning, and automation.</em></p>
+  <p><em>A Telegram bot panel, built with Pyrogram and rubpy, that controls a Rubika user account instead of a group bot.</em></p>
 
-  <a href="https://github.com/sadra-hatami/Bioinformatics-Training">
-    <img src="https://img.shields.io/badge/Bioinformatics%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Bioinformatics Training" />
+  <a href="https://github.com/sadra-hatami/AI-ML-Training">
+    <img src="https://img.shields.io/badge/AI%20ML%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="AI ML Training" />
   </a>
-  <p><em>A practical bioinformatics repository covering genomic, epigenetic, transcriptomic, proteomic, clinical, wearable, and imaging data through interactive Jupyter Notebooks.</em></p>
+  <p><em>A practical AI and machine learning repository covering supervised learning, unsupervised learning, neural networks, deep learning, and LLMs through interactive Jupyter Notebooks.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Business-Website">
+    <img src="https://img.shields.io/badge/Business%20Website-HTML%20CSS%20JS-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Business Website" />
+  </a>
+  <p><em>A responsive multi-page Persian business website with home, about, products, services, and contact pages, built with HTML, CSS, and JavaScript.</em></p>
 </div>
 
 <br>
@@ -190,29 +192,57 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- =============================================================== -->
-<!--                       🏆 ACHIEVEMENTS                             -->
+<!--                       ACHIEVEMENTS                               -->
 <!-- =============================================================== -->
 
 <div align="center">
   <h3>Achievements & Highlights:</h3>
 </div>
 
-- 🏆 Ranked among the **Top 10 nationwide** in the Khwarizmi Youth Festival — Information Technology / Mathematics track.
-- 🥇 **1st place** in Qazvin district and province and **6th nationwide** in the Juniora program.
-- 🎓 Ranked among the top **1,000** out of more than **600,000** participants in the PyTeach program, awarded a **full scholarship** to attend **Stanford University’s AI/ML course** of the USA.
-- ⭐ **Admitted** through Iran's national **Gifted Students entrance exam** (Sampad).
-- 📜 Earned certificates in **Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming**.
-- 🌐 **International** Certificate in **AI & Machine Learning** — **Stanford University of the USA**.
-- 💯 Completed an **Advanced Python Programming** certificate with a score of **100/100**.
+<table>
+<tr><td>
 
-<br>
+🏆 Ranked among the top 10 students nationwide in the Khwarizmi Youth Festival, Information Technology–Mathematics track
+
+</td></tr>
+<tr><td>
+
+🥇 1st place in Qazvin district and province, and 6th place nationwide in the Juniora program
+
+</td></tr>
+<tr><td>
+
+🎓 Ranked among the top 1,000 out of more than 500,000 participants in the PyTeach program, awarded a full scholarship to attend Stanford University’s artificial intelligence course in the United States
+
+</td></tr>
+<tr><td>
+
+⭐ Admitted through the national Gifted Students exam (SAMPAD)
+
+</td></tr>
+<tr><td>
+
+📜 Earned certificates in Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming
+
+</td></tr>
+<tr><td>
+
+🌐 International Certificate in Artificial Intelligence and Machine Learning from Stanford University
+
+</td></tr>
+<tr><td>
+
+💯 Bilingual Advanced Python Programming Certificate from Iran Digital with a score of 100/100
+
+</td></tr>
+</table>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- =============================================================== -->
-<!--                 📚 COURSES & CERTIFICATIONS                       -->
+<!--                 COURSES & CERTIFICATIONS                         -->
 <!-- =============================================================== -->
 
 <div align="center">
@@ -221,60 +251,46 @@
 
 ## 📚 Courses & Certifications
 
-<div align="center">
-<table width="92%">
-<tr>
-<td width="50%" valign="top">
+<div style="width:100%; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;">
 
 #### AI & MACHINE LEARNING
 
-`01` **International Certificate in AI & Machine Learning — Stanford University of the USA.**  
-Stanford Data Ocean (SDO)  
+`01` **International Certificate in Artificial Intelligence and Machine Learning from Stanford University**  
+Stanford University — Stanford Data Ocean (SDO)  
 [Certificate ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 
-`02` **Bilingual Machine Learning Certificate — Faradars**  
+`02` **Bilingual Machine Learning Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/CA4C124B)
-
-</td>
-<td width="50%" valign="top">
 
 #### PYTHON
 
-`03` **Bilingual Advanced Python Programming — Iran Digital**  
+`03` **Bilingual Advanced Python Programming Certificate from Iran Digital**  
 Score: **100/100** · Supported by Ministry of ICT • Ministry of Education • Finka Platform  
 [Verify FA ↗](https://irandigitalict.ir/verify/11eyzd) · [Verify EN ↗](https://irandigitalict.ir/verify/en/11eyzd)
 
-`04` **Bilingual Introductory Python Programming — Iran Digital**  
+`04` **Bilingual Introductory Python Programming Certificate from Iran Digital**  
 Supported by Ministry of ICT • Ministry of Education • Finka Platform  
 [Verify FA ↗](https://irandigitalict.ir/verify/j1zym) · [Verify EN ↗](https://irandigitalict.ir/verify/en/j1zym)
 
-`05` **Bilingual Python Programming Certificate — Faradars**  
+`05` **Bilingual Python Programming Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/079F25D6)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 #### PROGRAMMING & WEB
 
-`06` **Bilingual C++ Programming Certificate — Faradars**  
+`06` **Bilingual C++ Programming Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/8B3047D4)
 
-`07` **Bilingual HTML Certificate — Faradars**  
+`07` **Bilingual HTML Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/42F999BE)
 
-`08` **Bilingual CSS Web Design Certificate — Faradars**  
+`08` **Bilingual CSS Web Design Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/17BED274)
 
-`09` **Bilingual Excel Certificate — Faradars**  
+`09` **Bilingual Excel Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/C188C114)
 
-`10` **Bilingual PowerPoint Certificate — Faradars**  
+`10` **Bilingual PowerPoint Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/2A65C454)
-
-</td>
-<td width="50%" valign="top">
 
 #### JUNIORA & CODEBOT
 
@@ -302,15 +318,12 @@ Supported by Quera
 Supported by Quera  
 [Certificate ↗](https://juniora.org/certificate/pmij9hec)
 
-</td>
-</tr>
-</table>
 </div>
 
 <br>
 
 <!-- =============================================================== -->
-<!--                       📈 TROPHIES                                 -->
+<!--                       TROPHIES                                   -->
 <!-- =============================================================== -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -319,7 +332,7 @@ Supported by Quera
   <h3>GitHub Achievements & Trends:</h3>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadra-hatami&theme=dracula&no-frame=true&row=1&column=6&margin-left=5&margin-right=5" alt="GitHub Trophies"/>
+    <img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=dracula&no-frame=true&row=1&column=6&margin-left=5&margin-right=5" alt="GitHub Trophies"/>
   </p>
 </div>
 
@@ -328,7 +341,7 @@ Supported by Quera
 
 <div align="center">
   <p>
-    <a href="https://sadrahatami.blogfa.com/">
+    <a href="https://sadrahatami.blogfa.com/page/english-resume">
       <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
     </a>
   </p>

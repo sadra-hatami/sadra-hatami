@@ -227,7 +227,7 @@
 </td></tr>
 <tr><td>
 
-🌐 International Certificate in Artificial Intelligence and Machine Learning from Stanford University
+🌐 International Certificate in Artificial Intelligence and Machine Learning from Stanford University of the U.S.A.
 
 </td></tr>
 <tr><td>

@@ -212,12 +212,12 @@
 </td></tr>
 <tr><td>
 
-🎓 Ranked among the top 1,000 out of more than 500,000 participants in the PyTeach program, awarded a full scholarship to attend Stanford University’s artificial intelligence course in the United States
+🎓 Ranked among the top 1,000 out of more than 600,000 participants in the PyTeach program, awarded a full scholarship to attend Stanford University’s AI and ML course of the U.S.A.
 
 </td></tr>
 <tr><td>
 
-⭐ Admitted through the national Gifted Students exam (SAMPAD)
+⭐ Admitted through the national Gifted Students exam (Sampad)
 
 </td></tr>
 <tr><td>

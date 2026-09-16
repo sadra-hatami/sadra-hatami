@@ -262,7 +262,7 @@
 
 `01` **گواهی‌نامه‌ی بین‌المللی هوش مصنوعی و یادگیری ماشین از دانشگاه استنفورد آمریکا**  
 دانشگاه استنفورد — مرکز اقیانوس داده دانشگاه استنفورد (SDO)  
-[Certificate ↗](https://uploadkon.ir/uploads/54f907_26Fundamentals-of-AI-ML-in-Precision-Medicine-4-.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
+[Certificate ↗](https://uploadkon.ir/uploads/482216_26International-Certificate-in-AI-and-ML-from-Stanford-University-USA.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 
 `02` **گواهی‌نامه‌ی دوزبانه یادگیری ماشین از فرادرس**  
 [Certificate ↗](https://faradars.org/verify/CA4C124B)

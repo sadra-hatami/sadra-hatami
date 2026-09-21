@@ -113,6 +113,7 @@
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="60%" />
+  [![Top Languages](https://github-languages-card.vercel.app/api/top-languages?username=sadra-hatami&theme=dark)](https://github.com/sadra-hatami)
 </p>
 
 <!-- =============================================================== -->

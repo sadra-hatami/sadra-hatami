@@ -167,27 +167,25 @@
   <p><em>Modern web-based trading signal system generating BUY/SELL signals using weighted RSI, EMA, MACD, Stochastic, Ichimoku, Bollinger Bands, and Support/Resistance.</em></p>
 
   <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
-    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Persian%20Rubika%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
+    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Group%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
   </a>
-  <p><em>A powerful Persian Rubika advanced bot for group management, AI, security, entertainment, learning, and automation.</em></p>
+  <p><em>A Persian Rubika group platform with moderation, automation, leveling, and entertainment tools.</em></p>
 
-  <a href="https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel">
-    <img src="https://img.shields.io/badge/Telegram%20Rubika%20Account%20Panel-Account%20Panel-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Telegram Rubika Account Panel" />
+  <a href="https://github.com/sadra-hatami/World-War-Bot">
+    <img src="https://img.shields.io/badge/World%20War%20Bot-Strategy%20Game-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="World War Bot" />
   </a>
-  <p><em>A Telegram bot panel, built with Pyrogram and rubpy, that controls a Rubika user account instead of a group bot.</em></p>
+  <p><em>A Persian Rubika strategy bot where players lead a nation, grow an economy, and compete in a shared world.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Electronics-Business-Website">
+    <img src="https://img.shields.io/badge/Electronics%20Business%20Website-Scroll%20%26%203D-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Electronics Business Website" />
+  </a>
+  <p><em>A cinematic Persian electronics store website with scroll-driven motion, a 3D product preview, and a live configurator.</em></p>
 
   <a href="https://github.com/sadra-hatami/AI-ML-Training">
     <img src="https://img.shields.io/badge/AI%20ML%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="AI ML Training" />
   </a>
   <p><em>A practical AI and machine learning repository covering supervised learning, unsupervised learning, neural networks, deep learning, and LLMs through interactive Jupyter Notebooks.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Business-Website">
-    <img src="https://img.shields.io/badge/Business%20Website-HTML%20CSS%20JS-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Business Website" />
-  </a>
-  <p><em>A responsive multi-page Persian business website with home, about, products, services, and contact pages, built with HTML, CSS, and JavaScript.</em></p>
 </div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

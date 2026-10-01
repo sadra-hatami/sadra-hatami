@@ -154,40 +154,39 @@
 <!--                       FEATURED PROJECTS                          -->
 <!-- =============================================================== -->
 
-<div align="center" dir="rtl">
-  <h3>نمایش ساخته‌هایم:</h3>
+<div align="center">
+  <h3>نمونه‌کارها:</h3>
 
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
     <img src="https://img.shields.io/badge/Mathematics%20Toolbox-40%2B%20Math%20Tools-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
   </a>
-  <p><em>جعبه ابزار ریاضی — پلتفرم جامع و کاملاً آفلاین فارسی با بیش از ۴۰ ابزار تخصصی ریاضی، آموزش کامل ریاضی دوره متوسطه اول و امکانات قوی حل مسئله.</em></p>
+  <p><em>بستر فارسی و کاملاً آفلاین با بیش از ۴۰ ابزار ریاضی، آموزش دورهٔ متوسطه و حل مسئله.</em></p>
 
   <a href="https://github.com/sadra-hatami/Trading-Signal-System">
     <img src="https://img.shields.io/badge/Trading%20Signal%20System-Technical%20Analysis-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Trading Signal System" />
   </a>
-  <p><em>سیستم سیگنال معاملاتی — سامانه مدرن تحت وب برای تولید سیگنال خرید و فروش با RSI، EMA، MACD، Stochastic، Ichimoku، باندهای بولینگر و حمایت و مقاومت.</em></p>
+  <p><em>سامانهٔ وبی سیگنال خرید و فروش با RSI، EMA، MACD، استوکاستیک، ایچیموکو، باند بولینگر و حمایت و مقاومت.</em></p>
 
   <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
-    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Persian%20Rubika%20Bot-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
+    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Group%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
   </a>
-  <p><em>ربات پیشرفته گروه روبیکا — ربات فارسی روبیکا برای مدیریت گروه، هوش مصنوعی، امنیت، سرگرمی، یادگیری و خودکارسازی.</em></p>
+  <p><em>پلتفرم گروه روبیکا با نظارت، اتوماسیون، سطح‌بندی و ابزار سرگرمی.</em></p>
 
-  <a href="https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel">
-    <img src="https://img.shields.io/badge/Telegram%20Rubika%20Account%20Panel-Account%20Panel-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Telegram Rubika Account Panel" />
+  <a href="https://github.com/sadra-hatami/World-War-Bot">
+    <img src="https://img.shields.io/badge/World%20War%20Bot-Strategy%20Game-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="World War Bot" />
   </a>
-  <p><em>پنل حساب تلگرام و روبیکا — پنل ربات تلگرام ساخته‌شده با Pyrogram و rubpy که به‌جای ربات گروه، یک حساب کاربری روبیکا را کنترل می‌کند.</em></p>
+  <p><em>ربات استراتژی روبیکا که در آن بازیکن یک کشور را اداره می‌کند، اقتصاد می‌سازد و در دنیای مشترک رقابت می‌کند.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Electronics-Business-Website">
+    <img src="https://img.shields.io/badge/Electronics%20Business%20Website-Scroll%20%26%203D-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Electronics Business Website" />
+  </a>
+  <p><em>وب‌سایت فروشگاه الکترونیک با حرکت وابسته به اسکرول، پیش‌نمایش سه‌بعدی و پیکربندی زنده.</em></p>
 
   <a href="https://github.com/sadra-hatami/AI-ML-Training">
     <img src="https://img.shields.io/badge/AI%20ML%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="AI ML Training" />
   </a>
-  <p><em>آموزش هوش مصنوعی و یادگیری ماشین — مخزن کاربردی با دفترچه‌های تعاملی ژوپیتر برای یادگیری نظارت‌شده، بدون نظارت، شبکه‌های عصبی، یادگیری عمیق و مدل‌های زبانی بزرگ.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Business-Website">
-    <img src="https://img.shields.io/badge/Business%20Website-HTML%20CSS%20JS-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Business Website" />
-  </a>
-  <p><em>وبسایت کسب‌وکار — وبسایت چندصفحه‌ای و واکنش‌گرای فارسی با صفحات خانه، درباره، محصولات، خدمات و تماس، ساخته‌شده با HTML، CSS و JavaScript.</em></p>
+  <p><em>مخزن عملی هوش مصنوعی و یادگیری ماشین با نوت‌بوک Jupyter: نظارت‌شده، بدون نظارت، شبکه عصبی، یادگیری عمیق و مدل زبانی.</em></p>
 </div>
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -13,7 +13,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 <p>
-  <a href="https://sadrahatami.blogfa.com/page/english-resume">
+  <a href="https://sadrahatami.blogfa.com/">
     <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
   </a>
 </p>

@@ -255,7 +255,7 @@
 
 `01` **International Certificate in AI and Machine Learning from Stanford University of the U.S.A.**  
 Stanford University — Stanford Data Ocean (SDO)  
-[Certificate ↗](https://uploadkon.ir/uploads/482216_26International-Certificate-in-AI-and-ML-from-Stanford-University-USA.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
+[Certificate ↗](https://cdn.imgurl.ir/uploads/w690986_International_Certificate_in_AI_and_ML_from_Stanford_University_USA.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 
 `02` **Bilingual Machine Learning Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/CA4C124B)

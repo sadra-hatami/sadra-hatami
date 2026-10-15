@@ -3,16 +3,9 @@
 <!-- =============================================================== -->
 
 <div align="center" width="100%">
-
-![header](https://itextglow.vercel.app/api/banner?text=Sadra+Hatami&sub=Programming+%7C+AI+%7C+Mathematics&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=58&subsize=15&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-<p>
-  <a href="https://sadrahatami.blogfa.com/">
-    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/sadra-hatami">

@@ -3,7 +3,11 @@
 <!-- =============================================================== -->
 
 <div align="center" width="100%">
-  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sadra%20Hatami&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20%7C%20AI%20%7C%20Mathematics&descSize=20&descAlignY=62" alt="Capsule Render Banner" />
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 
@@ -11,10 +15,6 @@
   <a href="https://github.com/sadra-hatami">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&color=00F0FF&center=true&vCenter=true&width=800&lines=Programming+%7C+AI+%7C+Mathematics" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sadra%20Hatami&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20%7C%20AI%20%7C%20Mathematics&descSize=20&descAlignY=62" alt="Capsule Render Banner" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadra.hatami.1732@gmail.com)

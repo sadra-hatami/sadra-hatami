@@ -112,7 +112,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top languages" width="90%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top languages" width="80%" />
 </p>
 
 <!-- =============================================================== -->
@@ -120,16 +120,16 @@
 <!-- =============================================================== -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-hatami&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="Contribution Graph" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-hatami&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="Contribution Graph" width="80%" />
 </p>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=sadra-hatami&theme=tokyonight&hide_border=true" width="80%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="90%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadra-hatami&theme=tokyonight" width="80%" alt="GitHub stats" />
 
-<img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" alt="GitHub Trophies" />
+<img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=tokyonight&no-frame=true&row=1&column=7" width="80%" alt="GitHub Trophies" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

@@ -4,28 +4,17 @@
 
 <div align="center" width="100%">
 
-![header](https://itextglow.vercel.app/api/banner?text=Sadra+Hatami&sub=Programming+%7C+AI+%7C+Mathematics&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=58&subsize=15&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="اشاره به پایین" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="اشاره به پایین" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="اشاره به پایین" width="50" height="50" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sadra%20Hatami&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programming%20%7C%20AI%20%7C%20Mathematics&descSize=20&descAlignY=62" alt="Capsule Render Banner" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadra-hatami&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sadra-hatami?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-<p>
-  <a href="https://sadrahatami.blogfa.com/page/persian-resume">
-    <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/sadra-hatami">
-    <img src="https://readme-typing-svg.demolab.com?font=Tahoma&size=28&color=00F0FF&center=true&vCenter=true&width=800&lines=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C+%7C+%D9%87%D9%88%D8%B4+%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C+%7C+%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&color=00F0FF&center=true&vCenter=true&width=800&lines=Programming+%7C+AI+%7C+Mathematics" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=%D8%B5%D8%AF%D8%B1%D8%A7%20%D8%AD%D8%A7%D8%AA%D9%85%DB%8C&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C%20%7C%20%D9%87%D9%88%D8%B4%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C%20%7C%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA&descSize=20&descAlignY=62" alt="بنر" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadra.hatami.1732@gmail.com)
@@ -36,31 +25,27 @@
 </div>
 
 <!-- =============================================================== -->
-<!--                  GREETING                                        -->
+<!--                  GREETING & ROLE STATEMENT                       -->
 <!-- =============================================================== -->
 
-<div align="center" dir="rtl">
-  <h2>سلام! من صدرا حاتمی هستم 👋</h2>
+<div align="center">
+  <h2>Hey there! I'm Sadra Hatami 👋</h2>
   <p>
-    دانش‌آموز برنامه‌نویس کنجکاوی از ایران هستم که به
-    <strong>برنامه‌نویسی، هوش مصنوعی، ریاضیات و فناوری آموزشی</strong>
-    علاقه دارم.
-    از تبدیل ایده‌ها به ابزارهای کاربردی، برنامه‌های هوشمند و تجربه‌های یادگیری تعاملی لذت می‌برم.
+    A curious student developer from Iran who is passionate about
+    <strong>programming, artificial intelligence, mathematics, and educational technology</strong>.
+    I enjoy turning ideas into practical tools, intelligent applications, and interactive learning experiences.
   </p>
 </div>
 
 <!-- =============================================================== -->
-<!--               KEY SKILLS                                         -->
+<!--               KEY SKILLS & INTERESTS                             -->
 <!-- =============================================================== -->
 
-<div align="center" dir="rtl">
-  <h3>جعبه ابزار دیجیتال و علاقه‌مندی‌ها:</h3>
+<div align="center">
+  <h3>My Digital Toolkit & Passions:</h3>
 
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
-    <img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning">
     <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" />
@@ -68,60 +53,30 @@
   <a href="https://en.wikipedia.org/wiki/Deep_learning">
     <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" alt="Deep Learning" />
   </a>
-  <a href="https://platform.openai.com/docs">
-    <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-  </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="چکش و کلنگ" width="42" height="42" /> مهارت‌های فنی
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="42" height="42" /> Tech Stack
 
-<div style="width:100%; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;" dir="rtl">
+<div style="width:100%; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;">
 
-| # | دسته | ابزارها | آیکون‌ها |
+| # | Category | Tools | Icons |
 |---|---|---|---|
-| 🔤 | **زبان‌ها** | Python · JavaScript · C++ | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> |
-| 🎨 | **فرانت‌اند** | HTML · CSS · JavaScript | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
-| ⚙️ | **پایتون و هوش مصنوعی** | Python · Machine Learning · Deep learning | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
-| 🚀 | **کنترل نسخه** | Git · GitHub | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
-| 🧰 | **ابزارها** | VS Code · PyCharm · Visual Studio · Anaconda · Spyder · Jupyter | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.svg" height="40" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" alt="Jupyter" /></a> |
-| 💻 | **پلتفرم‌ها** | Windows · Excel · PowerPoint · Word | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://skill-icons-v2.vercel.app/api/icons?i=word" alt="Word" /></a> |
+| 🔤 | **Languages** | Python · JavaScript · C++ · C · Java · PHP · C# · R · SQL · MySQL · ASP.NET · Smalltalk · Hack | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a> <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET" /></a> <a href="https://en.wikipedia.org/wiki/Smalltalk"><img src="https://img.shields.io/badge/Smalltalk-59666C?style=flat-square&logo=smalltalk&logoColor=white" alt="Smalltalk" /></a> <a href="https://hacklang.org/"><img src="https://img.shields.io/badge/Hack-878787?style=flat-square&logo=hack&logoColor=white" alt="Hack" /></a> |
+| 🎨 | **Frontend** | HTML · CSS · JavaScript | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
+| ⚙️ | **Python & AI** | Python · Machine Learning · Deep Learning | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/ML-0077B6?style=for-the-badge" alt="Machine Learning" /></a> <a href="https://en.wikipedia.org/wiki/Deep_learning"><img src="https://img.shields.io/badge/DL-8E44AD?style=for-the-badge" alt="Deep Learning" /></a> |
+| 🚀 | **Version Control** | Git · GitHub | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> |
+| 🧰 | **Tools** | VS Code · PyCharm · Visual Studio · Anaconda · Spyder · Jupyter | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a> <a href="https://www.spyder-ide.org/"><img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.svg" height="40" alt="Spyder" /></a> <a href="https://jupyter.org/"><img src="https://skill-icons-v2.vercel.app/api/icons?i=jupyter" alt="Jupyter" /></a> |
+| 💻 | **Platforms** | Windows · Excel · PowerPoint · Word | <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://skill-icons-v2.vercel.app/api/icons?i=excel" alt="Excel" /></a> <a href="https://www.microsoft.com/microsoft-365/powerpoint"><img src="https://skill-icons-v2.vercel.app/api/icons?i=powerpoint" alt="PowerPoint" /></a> <a href="https://www.microsoft.com/microsoft-365/word"><img src="https://skill-icons-v2.vercel.app/api/icons?i=word" alt="Word" /></a> |
 
 </div>
 
 <!-- =============================================================== -->
-<!--                     CODING UNIVERSE                              -->
-<!-- =============================================================== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center" dir="rtl">
-  <h3>در دنیای کدنویسی‌ام چه می‌کنم:</h3>
-  <p>
-    الان روی این‌ها تمرکز دارم:<br/><br/>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/sadra-hatami/Mathematics-Toolbox"><img src="https://img.shields.io/badge/Mathematics-6B21A8?style=for-the-badge" alt="Mathematics" /></a>
-    &nbsp;&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge" alt="Machine Learning" /></a>
-  </p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Top Languages](https://github-languages-card.vercel.app/api/top-languages?username=sadra-hatami&theme=mint)](https://github.com/sadra-hatami)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sadra-hatami&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top languages" width="80%" />
-</p>
-
 <!-- =============================================================== -->
 <!--                VISUAL PROFILE STATS                              -->
 <!-- =============================================================== -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-hatami&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="نمودار مشارکت"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadra-hatami&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" width="80%" />
 </p>
 
 <div align="center">
@@ -136,7 +91,7 @@
 
 </div>
 
-## ⭐ ستاره‌های مخازن
+## ⭐ Repository Stars
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/sadra-hatami?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
@@ -147,7 +102,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%20%D9%85%D9%86&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <!-- =============================================================== -->
@@ -155,39 +110,38 @@
 <!-- =============================================================== -->
 
 <div align="center">
-  <h3>نمونه‌کارها:</h3>
+  <h3>Showcasing My Creations:</h3>
 
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
-    <img src="https://img.shields.io/badge/Mathematics%20Toolbox-40%2B%20Math%20Tools-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
+    <img src="https://img.shields.io/badge/Mathematics%20Toolbox-Offline%20Math%20Lab-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
   </a>
-  <p><em>بستر فارسی و کاملاً آفلاین با بیش از ۴۰ ابزار ریاضی، آموزش دورهٔ متوسطه و حل مسئله.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Trading-Signal-System">
-    <img src="https://img.shields.io/badge/Trading%20Signal%20System-Technical%20Analysis-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Trading Signal System" />
-  </a>
-  <p><em>سامانهٔ وبی سیگنال خرید و فروش با RSI، EMA، MACD، استوکاستیک، ایچیموکو، باند بولینگر و حمایت و مقاومت.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
-    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Group%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
-  </a>
-  <p><em>پلتفرم گروه روبیکا با نظارت، اتوماسیون، سطح‌بندی و ابزار سرگرمی.</em></p>
-
-  <a href="https://github.com/sadra-hatami/World-War-Bot">
-    <img src="https://img.shields.io/badge/World%20War%20Bot-Strategy%20Game-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="World War Bot" />
-  </a>
-  <p><em>ربات استراتژی روبیکا که در آن بازیکن یک کشور را اداره می‌کند، اقتصاد می‌سازد و در دنیای مشترک رقابت می‌کند.</em></p>
+  <p><em>A fully offline Persian platform with 40+ math tools, middle-school lessons, and problem solving.</em></p>
 
   <a href="https://github.com/sadra-hatami/Electronics-Business-Website">
     <img src="https://img.shields.io/badge/Electronics%20Business%20Website-Scroll%20%26%203D-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Electronics Business Website" />
   </a>
-  <p><em>وب‌سایت فروشگاه الکترونیک با حرکت وابسته به اسکرول، پیش‌نمایش سه‌بعدی و پیکربندی زنده.</em></p>
+  <p><em>A cinematic Persian electronics store with scroll-driven motion, a 3D product preview, and a live configurator.</em></p>
 
-  <a href="https://github.com/sadra-hatami/AI-ML-Training">
-    <img src="https://img.shields.io/badge/AI%20ML%20Training-Jupyter%20Notebooks-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="AI ML Training" />
+  <a href="https://github.com/sadra-hatami/School-Portal">
+    <img src="https://img.shields.io/badge/School%20Portal-PHP%20Student%20Desk-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="School Portal" />
   </a>
-  <p><em>مخزن عملی هوش مصنوعی و یادگیری ماشین با نوت‌بوک Jupyter: نظارت‌شده، بدون نظارت، شبکه عصبی، یادگیری عمیق و مدل زبانی.</em></p>
+  <p><em>A PHP student and admin portal for courses, enrollment, and marks, with a shared MySQL database.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
+    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Group%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
+  </a>
+  <p><em>A Persian Rubika group platform with moderation, automation, leveling, and entertainment tools.</em></p>
+
+  <a href="https://github.com/sadra-hatami/World-War-Bot">
+    <img src="https://img.shields.io/badge/World%20War%20Bot-Strategy%20Game-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="World War Bot" />
+  </a>
+  <p><em>A Persian Rubika strategy bot where players lead a nation, grow an economy, and compete in a shared world.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Recipes-App">
+    <img src="https://img.shields.io/badge/Recipes%20App-React%20Native-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Recipes App" />
+  </a>
+  <p><em>A React Native recipes app with home, search, categories, and recipe screens.</em></p>
 </div>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -195,51 +149,77 @@
 <!--                       ACHIEVEMENTS                               -->
 <!-- =============================================================== -->
 
-<div align="center" dir="rtl">
-  <h3>افتخارات:</h3>
-</div>
+<div align="center">
 
-<div dir="rtl">
+  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
+    <img src="https://img.shields.io/badge/Mathematics%20Toolbox-Offline%20Math%20Lab-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
+  </a>
+  <p><em>A fully offline Persian platform with 40+ math tools, middle-school lessons, and problem solving.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Electronics-Business-Website">
+    <img src="https://img.shields.io/badge/Electronics%20Business%20Website-Scroll%20%26%203D-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Electronics Business Website" />
+  </a>
+  <p><em>A cinematic Persian electronics store with scroll-driven motion, a 3D product preview, and a live configurator.</em></p>
+
+  <a href="https://github.com/sadra-hatami/School-Portal">
+    <img src="https://img.shields.io/badge/School%20Portal-PHP%20Student%20Desk-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="School Portal" />
+  </a>
+  <p><em>A PHP student and admin portal for courses, enrollment, and marks, with a shared MySQL database.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
+    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Group%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
+  </a>
+  <p><em>A Persian Rubika group platform with moderation, automation, leveling, and entertainment tools.</em></p>
+
+  <a href="https://github.com/sadra-hatami/World-War-Bot">
+    <img src="https://img.shields.io/badge/World%20War%20Bot-Strategy%20Game-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="World War Bot" />
+  </a>
+  <p><em>A Persian Rubika strategy bot where players lead a nation, grow an economy, and compete in a shared world.</em></p>
+
+  <a href="https://github.com/sadra-hatami/Recipes-App">
+    <img src="https://img.shields.io/badge/Recipes%20App-React%20Native-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Recipes App" />
+  </a>
+  <p><em>A React Native recipes app with home, search, categories, and recipe screens.</em></p>
+
+</div>
 
 <table>
 <tr><td>
 
-🏆 جز ۱۰ نفر برتر کشور در جشنواره نوجوان خوارزمی، زیرمحور فناوری اطلاعات ریاضی
+🏆 Ranked among the top 10 students nationwide in the Khwarizmi Youth Festival, Information Technology–Mathematics track
 
 </td></tr>
 <tr><td>
 
-🥇 رتبه اول در منطقه و استان قزوین و ششم کشوری در برنامه جونیورا
+🥇 1st place in Qazvin district and province, and 6th place nationwide in the Juniora program
 
 </td></tr>
 <tr><td>
 
-🎓 جزو هزار نفر برتر از میان بیش از نیم میلیون شرکت‌کننده در برنامه PyTeach، برای دریافت بورسیه تحصیلی کامل جهت حضور در دوره هوش مصنوعی دانشگاه استنفورد آمریکا
+🎓 Ranked among the top 1,000 out of more than 600,000 participants in the PyTeach program, awarded a full scholarship to attend Stanford University’s AI and ML course
 
 </td></tr>
 <tr><td>
 
-⭐ قبولی در آزمون سراسری استعدادهای درخشان (سمپاد)
+⭐ Admitted through the national Gifted Students exam (Sampad)
 
 </td></tr>
 <tr><td>
 
-📜 دریافت گواهی‌نامه در برنامه‌نویسی پیشرفته پایتون، یادگیری ماشین، C++، HTML، CSS، اکسل، پاورپوینت و برنامه‌نویسی هوش مصنوعی
+📜 Earned certificates in Advanced Python, Machine Learning, C++, HTML, CSS, Excel, PowerPoint and AI programming
 
 </td></tr>
 <tr><td>
 
-🌐 گواهی‌نامه‌ی بین‌المللی هوش مصنوعی و یادگیری ماشین از دانشگاه استنفورد آمریکا
+🌐 International Certificate in Artificial Intelligence and Machine Learning from Stanford University
 
 </td></tr>
 <tr><td>
 
-💯 گواهی‌نامه‌ی دوزبانه برنامه‌نویسی پیشرفته پایتون از پلتفرم ایران‌دیجیتال (۱۰۰ از ۱۰۰)
+💯 Bilingual Advanced Python Programming Certificate from Iran Digital with a score of 100/100
 
 </td></tr>
 </table>
-
-</div>
 
 <br>
 
@@ -250,76 +230,76 @@
 <!-- =============================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7%20%D9%88%20%DA%AF%D9%88%D8%A7%D9%87%DB%8C%E2%80%8C%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7&fontSize=22&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Courses%20%26%20Certifications&fontSize=24&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 📚 دوره‌ها و گواهی‌نامه‌ها
+## 📚 Courses & Certifications
 
-<div style="width:100%; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;" dir="rtl">
+<div style="width:100%; max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch;">
 
-#### هوش مصنوعی و یادگیری ماشین
+#### AI & MACHINE LEARNING
 
-`01` **گواهی‌نامه‌ی بین‌المللی هوش مصنوعی و یادگیری ماشین از دانشگاه استنفورد آمریکا**  
-دانشگاه استنفورد — مرکز اقیانوس داده دانشگاه استنفورد (SDO)  
-[Certificate ↗](https://uploadkon.ir/uploads/482216_26International-Certificate-in-AI-and-ML-from-Stanford-University-USA.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
+`01` **International Certificate in AI and Machine Learning from Stanford University**  
+Stanford University — Stanford Data Ocean (SDO)  
+[Certificate ↗](https://cdn.imgurl.ir/uploads/w690986_International_Certificate_in_AI_and_ML_from_Stanford_University_USA.png) · [Verify ↗](https://dataocean.stanford.edu/verify-certificate/e4fdffc05ee54d2184e68981f833e028)
 
-`02` **گواهی‌نامه‌ی دوزبانه یادگیری ماشین از فرادرس**  
+`02` **Bilingual Machine Learning Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/CA4C124B)
 
-#### پایتون
+#### PYTHON
 
-`03` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی پیشرفته پایتون از پلتفرم ایران‌دیجیتال**  
-نمره: **۱۰۰ از ۱۰۰** · با حمایت وزارت ارتباطات و فناوری اطلاعات • وزارت آموزش و پرورش • پلتفرم فینکا  
+`03` **Bilingual Advanced Python Programming Certificate from Iran Digital**  
+Score: **100/100** · Supported by Ministry of ICT • Ministry of Education • Finka Platform  
 [Verify FA ↗](https://irandigitalict.ir/verify/11eyzd) · [Verify EN ↗](https://irandigitalict.ir/verify/en/11eyzd)
 
-`04` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی مقدماتی پایتون از پلتفرم ایران‌دیجیتال**  
-با حمایت وزارت ارتباطات و فناوری اطلاعات • وزارت آموزش و پرورش • پلتفرم فینکا  
+`04` **Bilingual Introductory Python Programming Certificate from Iran Digital**  
+Supported by Ministry of ICT • Ministry of Education • Finka Platform  
 [Verify FA ↗](https://irandigitalict.ir/verify/j1zym) · [Verify EN ↗](https://irandigitalict.ir/verify/en/j1zym)
 
-`05` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی Python از فرادرس**  
+`05` **Bilingual Python Programming Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/079F25D6)
 
-#### برنامه‌نویسی و وب
+#### PROGRAMMING & WEB
 
-`06` **گواهی‌نامه‌ی دوزبانه برنامه‌نویسی C++ از فرادرس**  
+`06` **Bilingual C++ Programming Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/8B3047D4)
 
-`07` **گواهی‌نامه‌ی دوزبانه HTML از فرادرس**  
+`07` **Bilingual HTML Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/42F999BE)
 
-`08` **گواهی‌نامه‌ی دوزبانه CSS - طراحی وب از فرادرس**  
+`08` **Bilingual CSS Web Design Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/17BED274)
 
-`09` **گواهی‌نامه‌ی دوزبانه اکسل از فرادرس**  
+`09` **Bilingual Excel Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/C188C114)
 
-`10` **گواهی‌نامه‌ی دوزبانه پاورپوینت از فرادرس**  
+`10` **Bilingual PowerPoint Certificate from Faradars**  
 [Certificate ↗](https://faradars.org/verify/2A65C454)
 
-#### جونیورا و کدبات
+#### JUNIORA & CODEBOT
 
-`11` **گواهی‌نامه‌ی برنامه‌نویسی پایتون کدآپ - استارتر از برنامه جونیورا**  
-با حمایت کوئرا  
+`11` **CodeUp Python Starter Certificate — Juniora**  
+Supported by Quera  
 [Certificate ↗](https://static.juniora.org/files/certificates/qvqe1uz1.png)
 
-`12` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - استارتر به زبان پایتون از برنامه جونیورا**  
-با حمایت کوئرا  
+`12` **AI CodeBot Starter Certificate (Python) — Juniora**  
+Supported by Quera  
 [Certificate ↗](https://juniora.org/certificate/ioysxifu)
 
-`13` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۱ به زبان پایتون از برنامه جونیورا**  
-با حمایت کوئرا  
+`13` **AI CodeBot Level 1 Certificate (Python) — Juniora**  
+Supported by Quera  
 [Certificate ↗](https://juniora.org/certificate/7to8p0hy)
 
-`14` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۲ به زبان پایتون از برنامه جونیورا**  
-با حمایت کوئرا  
+`14` **AI CodeBot Level 2 Certificate (Python) — Juniora**  
+Supported by Quera  
 [Certificate ↗](https://juniora.org/certificate/p1dcxlo0)
 
-`15` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۳ به زبان پایتون از برنامه جونیورا**  
-با حمایت کوئرا  
+`15` **AI CodeBot Level 3 Certificate (Python) — Juniora**  
+Supported by Quera  
 [Certificate ↗](https://juniora.org/certificate/puhkrvdk)
 
-`16` **گواهی‌نامه‌ی آموزش هوش مصنوعی کدبات - سطح ۴ به زبان پایتون از برنامه جونیورا**  
-با حمایت کوئرا  
+`16` **AI CodeBot Level 4 Certificate (Python) — Juniora**  
+Supported by Quera  
 [Certificate ↗](https://juniora.org/certificate/pmij9hec)
 
 </div>
@@ -332,11 +312,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" dir="rtl">
-  <h3>دستاوردها و روند گیت‌هاب:</h3>
+<div align="center">
+  <h3>GitHub Achievements & Trends:</h3>
 
   <p align="center">
-    <img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=dracula&no-frame=true&row=1&column=6&margin-left=5&margin-right=5" alt="جام‌های گیت‌هاب"/>
+    <img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=dracula&no-frame=true&row=1&column=6&margin-left=5&margin-right=5" alt="GitHub Trophies"/>
   </p>
 </div>
 
@@ -345,7 +325,7 @@
 
 <div align="center">
   <p>
-    <a href="https://sadrahatami.blogfa.com/page/persian-resume">
+    <a href="https://sadrahatami.blogfa.com/page/english-resume">
       <img src="https://img.shields.io/badge/View%20My%20Full%20Resume-Personal%20Website-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Full Resume" />
     </a>
   </p>
@@ -353,9 +333,13 @@
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
 
-<div align="center" dir="rtl">
+<!-- =============================================================== -->
+<!--                           FOOTER                                  -->
+<!-- =============================================================== -->
+
+<div align="center">
   <p align="center">
-    <i>«یاد بگیر، بساز، بهتر شو و ایده‌ها را به چیزی مفید تبدیل کن.»</i><br/>
-    ساخته‌شده با ❤️، کنجکاوی، ریاضیات و مقدار زیادی کد توسط <strong>صدرا حاتمی</strong>.
+    <i>"Learn, build, improve, and turn ideas into something useful."</i><br/>
+    Made with ❤️, curiosity, mathematics, and a whole lot of code by <strong>Sadra Hatami</strong>.
   </p>
 </div>

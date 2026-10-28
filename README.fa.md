@@ -109,8 +109,9 @@
 <!--                       FEATURED PROJECTS                          -->
 <!-- =============================================================== -->
 
+<br>
+
 <div align="center">
-  <h3>نمونه‌کارهای من:</h3>
 
   <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
     <img src="https://img.shields.io/badge/Mathematics%20Toolbox-Offline%20Math%20Lab-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
@@ -141,6 +142,7 @@
     <img src="https://img.shields.io/badge/Recipes%20App-React%20Native-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Recipes App" />
   </a>
   <p><em>اپ دستور غذا با React Native، با صفحهٔ خانه، جستجو، دسته‌بندی و دستور.</em></p>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -148,40 +150,6 @@
 <!-- =============================================================== -->
 <!--                       ACHIEVEMENTS                               -->
 <!-- =============================================================== -->
-
-<div align="center">
-
-  <a href="https://github.com/sadra-hatami/Mathematics-Toolbox">
-    <img src="https://img.shields.io/badge/Mathematics%20Toolbox-Offline%20Math%20Lab-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Mathematics Toolbox" />
-  </a>
-  <p><em>پلتفرم فارسی و کاملاً آفلاین با بیش از ۴۰ ابزار ریاضی، درس‌های متوسطه و حل مسئله.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Electronics-Business-Website">
-    <img src="https://img.shields.io/badge/Electronics%20Business%20Website-Scroll%20%26%203D-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Electronics Business Website" />
-  </a>
-  <p><em>فروشگاه فارسی الکترونیک با حرکت هنگام اسکرول، پیش‌نمایش سه‌بعدی محصول و پیکربند زنده.</em></p>
-
-  <a href="https://github.com/sadra-hatami/School-Portal">
-    <img src="https://img.shields.io/badge/School%20Portal-PHP%20Student%20Desk-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="School Portal" />
-  </a>
-  <p><em>پورتال PHP دانشجو و مدیر برای درس، ثبت‌نام و نمره، با یک پایگاه MySQL مشترک.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot">
-    <img src="https://img.shields.io/badge/Rubika%20Advanced%20Group%20Bot-Group%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Rubika Advanced Group Bot" />
-  </a>
-  <p><em>پلتفرم گروهی فارسی روبیکا با مدیریت، خودکارسازی، سطح‌بندی و ابزار سرگرمی.</em></p>
-
-  <a href="https://github.com/sadra-hatami/World-War-Bot">
-    <img src="https://img.shields.io/badge/World%20War%20Bot-Strategy%20Game-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="World War Bot" />
-  </a>
-  <p><em>ربات استراتژی فارسی روبیکا که در آن بازیکن یک کشور را اداره می‌کند، اقتصاد را رشد می‌دهد و در یک جهان مشترک رقابت می‌کند.</em></p>
-
-  <a href="https://github.com/sadra-hatami/Recipes-App">
-    <img src="https://img.shields.io/badge/Recipes%20App-React%20Native-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="Recipes App" />
-  </a>
-  <p><em>اپ دستور غذا با React Native، با صفحهٔ خانه، جستجو، دسته‌بندی و دستور.</em></p>
-
-</div>
 
 <table>
 <tr><td>

@@ -158,6 +158,7 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- =============================================================== -->
 <!--                VISUAL PROFILE STATS                              -->
@@ -273,6 +274,8 @@ Supported by Quera
 [Certificate ↗](https://juniora.org/certificate/pmij9hec)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 

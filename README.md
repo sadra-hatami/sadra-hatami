@@ -277,19 +277,8 @@ Supported by Quera
 
 <br>
 
-<!-- =============================================================== -->
-<!--                       TROPHIES                                   -->
-<!-- =============================================================== -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h3>GitHub Achievements & Trends:</h3>
-
-  <p align="center">
-    <img src="https://github-trophies.devomb.com/?username=sadra-hatami&theme=dracula&no-frame=true&row=1&column=6&margin-left=5&margin-right=5" alt="GitHub Trophies"/>
-  </p>
-</div>
 
 <br>
 <br>

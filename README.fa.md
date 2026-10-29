@@ -118,6 +118,10 @@
 <!--                       ACHIEVEMENTS                               -->
 <!-- =============================================================== -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Courses%20%26%20Certifications&fontSize=24&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
 <table>
 <tr><td>
 
@@ -197,10 +201,6 @@
 <!-- =============================================================== -->
 <!--                 COURSES & CERTIFICATIONS                         -->
 <!-- =============================================================== -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Courses%20%26%20Certifications&fontSize=24&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
 
 ## 📚 دوره‌ها و گواهی‌ها
 
